@@ -1,1 +1,3 @@
 Gitの練習パート2
+git add
+git commit
